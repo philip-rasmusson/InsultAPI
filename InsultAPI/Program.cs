@@ -7,7 +7,6 @@ namespace InsultAPI
         static void Main(string[] args)
         {
             Output.OutputInsult();
-            Console.ReadKey();
         }
     }
 }
